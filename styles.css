@@ -1,6 +1,26 @@
 .title {
     text-align: center;
 }
+
 body {
     background-color: yellow;
+}
+
+.recipe { 
+    
+    font-size: large;
+}
+
+.imagetop {
+display: inline-block;
+text-align: center;
+margin: 10;
+}
+
+.imagetop a {
+display: block;
+margin-bottom: 5px;
+text-decoration: none;
+font-weight:  bold;
+color: black;
 }
